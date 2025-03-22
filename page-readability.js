@@ -19,6 +19,9 @@
         .reading-container {
           padding: 4% 10% !important;
         }
+        .reading-container h1 {
+          font-size: 20px;
+        }
         .reading-container p {
           text-align: left;
         }
